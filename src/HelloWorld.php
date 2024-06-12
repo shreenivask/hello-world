@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Shreenivas\HelloWorld;
+namespace Shreenivask\HelloWorld;
 
 final class HelloWorld
 {
